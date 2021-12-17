@@ -12,6 +12,14 @@ Build and tag the docker image.
 docker build -t or13/markdown2rfc ./docker
 ```
 
+### Publish Image
+
+Publish the image to dockerhub
+
+```
+docker push or13/markdown2rfc
+```
+
 ### Build Spec
 
 Build the spec and place it in the `build` folder.
