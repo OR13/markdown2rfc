@@ -1,5 +1,7 @@
 # or13/markdown2rfc
 
+[![Spec](https://github.com/OR13/markdown2rfc/actions/workflows/ci.yml/badge.svg)](https://github.com/OR13/markdown2rfc/actions/workflows/ci.yml)
+
 Based on [oauthstuff/markdown2rfc](https://github.com/oauthstuff/markdown2rfc).
 
 ### Build Image
